@@ -1,0 +1,35 @@
+.fw-400{
+    font-weight: 400 !important;
+}
+.task-list-item{
+    height: 60px;
+    border-bottom: 1px solid white;
+    line-height: 60px;
+}
+.task-list{
+    --bs-list-group-item-padding-y:unset;
+}
+.trash{
+    line-height: 60px;
+    margin-top: 15px;
+    margin-right: 10px;
+}
+.ms-4p5{
+    margin-left:1.50rem!important;
+}
+.footer{
+    height:50px;
+}
+.footer-text{
+    line-height: 50px;
+}
+/*@media screen and (max-width: 768px) and (min-width: 320px){*/
+/*    .col-8 ,.col-3,.col-6,.col-4{*/
+/*        width:100% !important;*/
+/*        margin-top:10px;*/
+/*    }*/
+/*    .btn-add-task-list{*/
+/*        margin-top: 10px;*/
+/*    }*/
+/*}*/
+
